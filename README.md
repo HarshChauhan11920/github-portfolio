@@ -6,6 +6,8 @@ Student at Lovely Professional University
 
 About Me:
 I am currently pursuing my B.Tech from Lovely Professional University and have completed my secondary education under the CBSE board. I am a tech enthusiast with a passion for learning new programming languages and developing software solutions that solve real-world problems. I am skilled in various programming languages and frameworks, with hands-on experience in building web applications, chatbots, and more. I actively participate in hackathons and work on innovative projects that challenge my skillset.
+
+
 Skills:
 * Programming Languages: Python, Java,
 * Web Development: HTML, CSS, JavaScript, Django
