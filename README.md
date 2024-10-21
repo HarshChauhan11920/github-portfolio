@@ -1,6 +1,10 @@
 # github-portfolio
+
 This is my Portfolio. 
+
+
 Name: Harsh Singh Chauhan
+
 Student at Lovely Professional University
 
 
